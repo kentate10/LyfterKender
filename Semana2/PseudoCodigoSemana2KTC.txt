@@ -1,0 +1,78 @@
+####1PseudoCodigos###
+
+	Inicio
+
+Definir precio
+
+Definir descuento
+
+Definir precio_final
+
+Mostrar “Ingrese el precio del producto”
+
+Pedir precio
+
+Si precio < 100 Entonces
+    descuento = precio * 0.02
+
+Sino
+    descuento = precio * 0.10
+
+Fin Si
+
+precio_final = precio - descuento
+
+Mostrar “El precio final después del descuento es”
+
+Mostrar precio_final
+
+Fin
+
+
+
+
+####2PseudoCodigos###
+
+ Inicio
+
+Definir tiempo_segundos
+
+Definir diferencia
+
+Definir diez_minutos = 600
+
+Mostrar “Ingrese el tiempo en segundos”
+
+Pedir tiempo_segundos
+
+Si tiempo_segundos < diez_minutos Entonces
+    diferencia = diez_minutos - tiempo_segundos
+    Mostrar diferencia
+
+Sino
+    Mostrar “Mayor”
+
+Fin
+
+
+####3PseudoCodigos###
+
+	Inicio
+
+Definir numero
+
+Definir suma = 0
+
+Mostrar “Ingrese un número”
+
+Pedir numero
+
+Para i desde 1 hasta numero Hacer
+    suma = suma + i
+
+Fin Para
+
+
+Mostrar “La suma de los números desde 1 hasta”, numero, “es”, suma
+
+Fin

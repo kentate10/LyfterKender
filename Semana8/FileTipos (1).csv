@@ -1,0 +1,17 @@
+Método,Descripción
+close(),Cierra el archivo
+detach(),Devuelve el flujo sin procesar separado del búfer
+fileno(),Devuelve un número que representa el flujo desde la perspectiva del sistema operativo
+flush(),Vacía el búfer interno
+isatty(),Devuelve si el flujo del archivo es interactivo o no
+read(),Devuelve el contenido del archivo
+readable(),Devuelve si el flujo del archivo se puede leer o no
+readline(),Devuelve una línea del archivo
+readlines(),Devuelve una lista de líneas del archivo
+seek(),Cambia la posición del archivo
+seekable(),Devuelve si el archivo permite cambiar la posición
+tell(),Devuelve la posición actual en el archivo
+truncate(),Redimensiona el archivo a un tamaño específico
+writable(),Devuelve si el archivo se puede escribir o no
+write(),Escribe la cadena especificada en el archivo
+writelines(),Escribe una lista de cadenas en el archivo

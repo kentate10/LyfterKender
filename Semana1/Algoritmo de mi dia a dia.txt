@@ -1,0 +1,99 @@
+Algoritmo de mi dia a dia 
+
+Inicio
+Despertar
+	1. Hora de despertar: 7:30 AM.
+	2. Si es fin de semana:
+		Posponer la alarma 2 horas.
+	3. Apagar la alarma.
+	4. Levantarse de la cama.
+• Aseo
+	1. Ir al baño.
+	2. Lavarse la cara.
+	3. Cepillarse los dientes.
+	4. Tomar una ducha rapida.
+		1. Si es fin de semana, ducha por 20+ minutops.
+• Desayunar
+	1. Ir a la cocina.
+	2. Si hay tiempo suficiente:
+		1. Preparar desayuno completo.
+	3. Si hay poco tiempo:
+		1. Tomar un desayuno rápido.
+Hacer desayuno luego de una hora de reuniones.
+• Prepararse para el día
+	Si es Viernes de trabajo presencial:
+		1. Seleccionar ropa:
+			i. Si el clima es soleado, usar ropa ligera.
+			ii. Si el clima es lluvioso, usar ropa abrigada y comoda.
+	1. Vestirse y arreglarse.
+• Traslado al trabajo/estudios
+	1. Si el dia es soleado:
+		1. Ir en  ride en el carro de mi vecino junto a el.
+	2. Si llueve o no hay ride:
+		1. Usar vehículo propio o taxi.
+• Trabajo.
+	1. Llegar a las 8:00 AM.
+	2. Revisar tareas pendientes.
+	3. Trabajar durante 4 horas continuas.
+• Almuerzo
+	1. A las 12:00 PM, ir a almorzar.
+
+- Continuar actividades
+	1. Regresar al trabajo.
+	2. Revisar notificaciones en caso de emergencia laborales o tiquetes.
+   Si no hay trabajo que hacer:
+	     Adelantar trabajo de estudios, escuchar musica o actividades para matar tiempo.
+• Regreso a casa
+	1. Salir a las 5:00 PM.
+	2. Si hay tráfico:
+		1. Visitar a mis amigos en Alajuea hasta que baje el trafico.
+• Tiempo libre
+	1. Llegar a casa.
+	2. Descansar por 15-30 minutos.
+	3. Si hay tareas del hogar, realizarlas.
+	4. Si no hay tareas, Entrenar en el gimnasio en casa.
+• Cena
+	1. preparar o comprar la cena.
+		1. Si se está cansado, optar por algo rápido.
+		2. Si hay energía y tiempo, cocinar algo más elaborado.
+• Noche
+	1. Después de cenar, relajarse (Salir a manejar o armar proyectos de carros).
+	2. Si es día laborable, preparar cosas para el siguiente día.
+• Prepararse para dormir
+	1. lavarse los dientes.
+	2. Acostarse a las 11:30 PM.
+• Dormir
+	1. Dormir al menos 7-8 horas.
+	2. Si es fin de semana, dormir un poco más.
+• Fin
+-------------------------------------------------------------------------------------
+Ver video en Youtube (Desde PC)
+
+Inicio
+1. Abrir navegador 
+	1. Localizar el ícono del navegador web.
+	2. Hacer doble clic en el ícono para abrir el navegador.
+2. Ir a YouTube
+	1. En la barra de direcciones del navegador, escribir https://www.youtube.com.
+	2. Presionar la tecla "Enter" para acceder al sitio.
+3. Buscar video
+	1. Tocar la barra de búsqueda de YouTube.
+	2. Escribir el nombre del video o tema que desea ver.
+	3. Presionar la tecla "Enter" o hacer clic en el ícono de buscar .
+	
+4. Seleccionar video
+	1. Esperar a que aparezcan los resultados de búsqueda.
+	2. Si el video deseado está entre los primeros resultados, seleccionarlo.
+		1. Si no aparece, revisar las páginas siguientes hasta encontrarlo.
+		
+5. Reproducir video
+	1. Hacer clic en el video seleccionado.
+	2. Esperar a que se cargue la página de reproducción.
+	
+6. Ver video
+	1. Si aparece un anuncio, esperar hasta que se pueda omitir.
+		1. Si el anuncio tiene un botón "Omitir anuncio", hacer clic en él.
+	2. Ajustar el volumen usando el control de volumen en la página o en el dispositivo.
+	3. Si se desea ver en pantalla completa, hacer clic en el botón "Pantalla completa" o tecla F.
+7. Fin
+
