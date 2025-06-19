@@ -1,12 +1,11 @@
 import csv
 import os
 
-FILENAME = "estudiantes.csv"
-
 # esto exporta los datos actuales a un archivo CSV
 def export_data(student_list):
+    filename = "estudiantes.csv"  # definido localmente
     # abro el archivo en modo escritura, con encoding para que no se bugueen los acentos
-    with open(FILENAME, mode='w', newline='', encoding='utf-8') as file:
+    with open(filename, mode='w', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
 
         # escribo los headers del archivo
@@ -28,13 +27,14 @@ def export_data(student_list):
 
 # esto importa datos desde un CSV si ya fue exportado antes
 def import_data(student_list):
+    filename = "estudiantes.csv"  # definido localmente
     # primero reviso si el archivo existe, si no, le aviso al usuario
-    if not os.path.exists(FILENAME):
+    if not os.path.exists(filename):
         print("No se encontró un archivo previamente exportado.")
         return
 
     # si el archivo sí existe, lo abro para leerlo
-    with open(FILENAME, mode='r', encoding='utf-8') as file:
+    with open(filename, mode='r', encoding='utf-8') as file:
         reader = csv.DictReader(file)
 
         # limpio la lista actual por si ya tenía datos
