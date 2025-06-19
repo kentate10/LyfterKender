@@ -17,5 +17,10 @@ class Bus:
         else:
             print("The bus is full. Cannot add more passengers.")
 
-    #
+    def remove_passenger(self, person):
+        if person in self.passengers:
+            self.passengers.remove(person)
+            print(f"{person.name} has left the bus.")
+        else:
+            print(f"{person.name} is not on the bus.")
 
