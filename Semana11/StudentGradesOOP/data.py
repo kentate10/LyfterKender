@@ -34,30 +34,13 @@ FILENAME = "estudiantes.csv"
 # esto importa datos desde un CSV si ya fue exportado antes
 
 def export_data(student_list):
-    # abro el archivo en modo escritura, con encoding para que no se bugueen los acentos
-   def export_data(student_list):
     with open(FILENAME, mode='w', newline='', encoding='utf-8') as file:
         fieldnames = ["Nombre", "Sección", "Español", "Inglés", "Sociales", "Ciencias"]
-        writer = csv.DictWriter(file, fieldnames=fieldnames) 
+        writer = csv.DictWriter(file, fieldnames=fieldnames)
 
-        writer.writeheader()#escribo los headers del archivo
-        
+        writer.writeheader()
         for student in student_list:
             writer.writerow(student.to_dict())
-
-    print("Datos exportados exitosamente.")
-
-        # ahora voy escribiendo los datos de cada estudiante
-        for student in student_list:
-            grades = student['grades']
-            writer.writerow([
-                student['name'],
-                student['section'],
-                grades["español"],
-                grades["inglés"],
-                grades["sociales"],
-                grades["ciencias"]
-            ])
 
     print("Datos exportados exitosamente.")
 
@@ -85,7 +68,7 @@ def import_data(student_list):
 
     print("Datos importados exitosamente.")
 
-|#recordatorio
+#recordatorio
 ##el dicionario anterior seria algo asi de ejemplo:
 # student = Student("Ana", "7A", {
 #     "español": 85.0,
