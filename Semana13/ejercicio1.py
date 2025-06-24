@@ -26,4 +26,3 @@ def test_decorator():
     }
 
 test_decorator() # se ejecuta la funcion decorada
-~
